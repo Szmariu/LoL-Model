@@ -549,16 +549,7 @@ sns.heatmap(pd.DataFrame(correlationValues),
 plt.show()
 
 """## Model Estimation
-In this part we will try to estimate our models: XGBoost, NeuralNetworks.
 
-What we've done here:
-
-- Feature selection to fit our model best
-- Hyperparameters tunning
-- Base our conclusions on Precision and Recall in addition to Accuracy
-- Time Efficiency testing for each algorithm
-
-Lets begin!
 ![](https://cdn.lynda.com/course/645050/645050-636700308369503992-16x9.jpg)
 Let's look at the data again
 """
